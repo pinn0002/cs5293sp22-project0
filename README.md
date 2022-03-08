@@ -26,12 +26,12 @@ Run testfiles using pipenv run python -m pytest
 
 **Libraries used in this project:**
 
-argparse
-urllib.request
-tempfile
-PyPDF2
-re
-sqlite3
+argparse,
+urllib.request,
+tempfile,
+PyPDF2,
+re,
+sqlite3,
 pandas
 
 ****Project Objective:****
