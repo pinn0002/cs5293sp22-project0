@@ -32,6 +32,7 @@ jobs:
         run: |
           pipenv install --deploy --dev
           pipenv install pytest
+          pipenv install project0
       - name: Run test suite
         run: |
           pipenv run pytest 
